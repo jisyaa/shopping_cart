@@ -40,9 +40,14 @@ Ini adalah API e-commerce yang dibangun menggunakan **Python**, **MySQL**, dan *
    uvicorn main:app --reload
    ```
 
-4. **Buka API di browser**:
+5. **Buka API di browser**:
    - Klik link yang muncul saat menjalankan aplikasi 
    - Tambahkan /docs di belakang url 
+
+6. **Jalankan frontend**:
+   ```bash
+   flutter run
+   ```
 
 ## Kelompok
 - Fitri Sakinah (2211081009)
